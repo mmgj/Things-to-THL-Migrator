@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Things Migrator' target in the 'Things Migrator' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

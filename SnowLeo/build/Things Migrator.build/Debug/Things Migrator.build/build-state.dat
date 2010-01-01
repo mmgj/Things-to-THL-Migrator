@@ -1,0 +1,467 @@
+TThings Migrator
+v7
+r0
+t282486364.832207
+cCheck dependencies
+cProcessInfoPlistFile "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist" Things_Migrator-Info.plist
+cCopyStringsFile "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/English.lproj/MainMenu.xib"
+cCpResource "build/Debug/Things Migrator.app/Contents/Resources/t2thlBG_2.png" t2thlBG_2.png
+cCpResource "build/Debug/Things Migrator.app/Contents/Resources/thl.png" thl.png
+cCpResource "build/Debug/Things Migrator.app/Contents/Resources/icon.icns" icon.icns
+cProcessPCH /var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-aygzfcoxochuuafzbiohsbqujdwu/Things_Migrator_Prefix.pch.gch Things_Migrator_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cOSACompile Things_MigratorAppDelegate.applescript
+cCompileC "build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/main.o" "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator" normal x86_64
+cTouch "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app"
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/English.lproj/InfoPlist.strings
+c000000004B2628AD0000000000000058
+t1260791981
+s88
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/English.lproj/MainMenu.xib
+c000000004B26295F0000000000032A09
+t1260792159
+s207369
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/Things_MigratorAppDelegate.applescript
+c000000004B262A6300000000000014F2
+t1260792419
+s5362
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/Things_Migrator_Prefix.pch
+c000000004B24E8F300000000000000A1
+t1260710131
+s161
+i<Cocoa/Cocoa.h>
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app
+t1260793564
+s102
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist
+t1260793528
+s905
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator
+t1260793564
+s9208
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/PkgInfo
+t1260793528
+s8
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1260792718
+s88
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/MainMenu.nib
+t1260792719
+s41065
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/Things_MigratorAppDelegate.scpt
+t1260792719
+s22850
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/icon.icns
+t1260710668
+s151002
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/t2thlBG_2.png
+t1260710668
+s66929
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/thl.png
+t1260710668
+s23892
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/i386/Things Migrator.LinkFileList
+c000000004B262D9C000000000000009A
+t1260793244
+s154
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/i386/main.o
+t1260793249
+s6004
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/Things Migrator.LinkFileList
+c000000004B26115F000000000000009C
+t1260786015
+s156
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/main.o
+t1260786026
+s6688
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/icon.icns
+c000000004A0B4C7B0000000000024DDA
+t1242254459
+s151002
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m
+c000000004B24E8F30000000000000162
+t1260710131
+s354
+i<Cocoa/Cocoa.h>
+i<AppleScriptObjC/AppleScriptObjC.h>
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/t2thlBG_2.png
+c000000004A0BD8100000000000010571
+t1242290192
+s66929
+
+N/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/thl.png
+c000000004A0B4C420000000000005D54
+t1242254402
+s23892
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppleScriptObjC.framework/Headers/AppleScriptObjC.h
+c000000004AB9BBEF0000000000000100
+t1253686255
+s256
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/AppleScriptObjC.framework/AppleScriptObjC
+c000000004A583A670000000000048810
+t1247296103
+s296976
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/English.lproj/InfoPlist.strings
+c000000004B24E8F3000000000000005C
+t1260710131
+s92
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/English.lproj/MainMenu.xib
+c000000004B251FF7000000000003299D
+t1260724215
+s207261
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/Things_MigratorAppDelegate.applescript
+c000000004B25264300000000000014F5
+t1260725827
+s5365
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/Things_Migrator_Prefix.pch
+c000000004B24E8F300000000000000A1
+t1260710131
+s161
+i<Cocoa/Cocoa.h>
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app
+t1260725789
+s102
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist
+t1260710148
+s854
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator
+t1260710152
+s9192
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/PkgInfo
+t1260710148
+s8
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1260710148
+s92
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/MainMenu.nib
+t1260724217
+s41065
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/Things_MigratorAppDelegate.scpt
+t1260725789
+s22858
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/icon.icns
+t1260710668
+s151002
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/t2thlBG_2.png
+t1260710668
+s66929
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/thl.png
+t1260710668
+s23892
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/Things Migrator.LinkFileList
+c000000004B24E9030000000000000095
+t1260710147
+s149
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/main.o
+t1260710152
+s6672
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/icon.icns
+c000000004A0B4C7B0000000000024DDA
+t1242254459
+s151002
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/main.m
+c000000004B24E8F30000000000000162
+t1260710131
+s354
+i<Cocoa/Cocoa.h>
+i<AppleScriptObjC/AppleScriptObjC.h>
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/t2thlBG_2.png
+c000000004A0BD8100000000000010571
+t1242290192
+s66929
+
+N/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/thl.png
+c000000004A0B4C420000000000005D54
+t1242254402
+s23892
+
+N/var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-aygzfcoxochuuafzbiohsbqujdwu/Things_Migrator_Prefix.pch.gch
+t1260786025
+s54224656
+
+N/var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-bbbwhpzvqzqatrhaqisomfeajtmm/Things_Migrator_Prefix.pch.gch
+t1260793249
+s56854320
+
+N/var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-fxncirjpkabepheabcnhtacnouid/Things_Migrator_Prefix.pch.gch
+t1260710151
+s54224656
+
+NThings_Migrator-Info.plist
+c000000004B262EB60000000000000397
+t1260793526
+s919
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies282486364#282486364#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC "build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/i386/main.o" "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s282486049.389140
+e282486049.597092
+r1
+xCompileC
+xbuild/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/i386/main.o
+x/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m282486049#282486049#0(0"0(0#0#77"/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m4300885448#1993"    cd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-generated-files.hmap" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-own-target-headers.hmap" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-all-target-headers.hmap" -iquote "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-project-headers.hmap" "-F/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/include" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources/i386" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources" -include /var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-bbbwhpzvqzqatrhaqisomfeajtmm/Things_Migrator_Prefix.pch -c "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m" -o "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/main.o" "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s282478825.492239
+e282478826.923509
+r1
+xCompileC
+xbuild/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/main.o
+x/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m282478825#282478826#0(0"0(0#0#77"/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m4300885448#1999"    cd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-generated-files.hmap" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-own-target-headers.hmap" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-all-target-headers.hmap" -iquote "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-project-headers.hmap" "-F/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/include" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources/x86_64" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources" -include /var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-aygzfcoxochuuafzbiohsbqujdwu/Things_Migrator_Prefix.pch -c "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/main.m" -o "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC "build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/main.o" "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s282402951.867924
+e282402952.069629
+r1
+xCompileC
+xbuild/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/main.o
+x/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/main.m282402951#282402952#0(0"0(0#0#70"/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/main.m4300885448#1922"    cd "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-generated-files.hmap" "-I/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-own-target-headers.hmap" "-I/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-all-target-headers.hmap" -iquote "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-project-headers.hmap" "-F/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug" "-I/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/include" "-I/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources/x86_64" "-I/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources" -include /var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-fxncirjpkabepheabcnhtacnouid/Things_Migrator_Prefix.pch -c "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/main.m" -o "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/English.lproj/MainMenu.xib"
+s282485518.492504
+e282485519.756686
+r1
+xCompileXIB
+x/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib282485518#282485519#0(0"0(0#0#97"/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/English.lproj/MainMenu.xib4300885448#437"    cd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/MainMenu.nib" "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/English.lproj/MainMenu.xib"0#
+
+CCompileXIB "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/English.lproj/MainMenu.xib"
+s282417016.738575
+e282417017.281690
+r1
+xCompileXIB
+x/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib282417016#282417017#0(0"0(0#0#90"/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/English.lproj/MainMenu.xib4300885448#416"    cd "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/English.lproj/MainMenu.xib"0#
+
+CCopyStringsFile "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s282485518.491279
+e282485518.720333
+r1
+xCopyStringsFile
+x/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings282485518#282485518#0(0"0(0#0#102"/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/English.lproj/InfoPlist.strings4300885448#442"    cd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj"0#
+
+CCopyStringsFile "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s282402948.027479
+e282402948.201674
+r1
+xCopyStringsFile
+x/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings282402948#282402948#0(0"0(0#0#95"/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/English.lproj/InfoPlist.strings4300885448#428"    cd "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj"0#
+
+CCpResource "build/Debug/Things Migrator.app/Contents/Resources/icon.icns" icon.icns
+s282403468.875303
+e282403468.886984
+r1
+xCpResource
+xbuild/Debug/Things Migrator.app/Contents/Resources/icon.icns
+xicon.icns
+lSLF07#2@14"Copy icon.icns282403468#282403468#0(0"0(0#0#73"/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/icon.icns4300885448#414"    cd "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/icon.icns" "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Things Migrator.app/Contents/Resources/t2thlBG_2.png" t2thlBG_2.png
+s282403468.871879
+e282403468.885587
+r1
+xCpResource
+xbuild/Debug/Things Migrator.app/Contents/Resources/t2thlBG_2.png
+xt2thlBG_2.png
+lSLF07#2@18"Copy t2thlBG_2.png282403468#282403468#0(0"0(0#0#77"/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/t2thlBG_2.png4300885448#418"    cd "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/t2thlBG_2.png" "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Things Migrator.app/Contents/Resources/thl.png" thl.png
+s282403468.873533
+e282403468.884280
+r1
+xCpResource
+xbuild/Debug/Things Migrator.app/Contents/Resources/thl.png
+xthl.png
+lSLF07#2@12"Copy thl.png282403468#282403468#0(0"0(0#0#71"/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/thl.png4300885448#412"    cd "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/thl.png" "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources"0#
+
+CLd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator" normal i386
+s282486049.597192
+e282486049.722563
+r1
+xLd
+x/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator
+xnormal
+xi386
+lSLF07#2@138"Link /Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator282486049#282486049#0(0"0(0#0#0"4300885448#775"    cd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug" "-F/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug" -filelist "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/i386/Things Migrator.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework AppleScriptObjC -o "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator"0#
+
+CLd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator" normal x86_64
+s282486364.645035
+e282486364.829501
+r1
+xLd
+x/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator
+xnormal
+xx86_64
+lSLF07#2@138"Link /Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator282486364#282486364#0(0"0(0#0#0"4300885448#779"    cd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug" "-F/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug" -filelist "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/Things Migrator.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework AppleScriptObjC -o "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator"0#
+
+CLd "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator" normal x86_64
+s282402952.069722
+e282402952.194096
+r1
+xLd
+x/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator
+xnormal
+xx86_64
+lSLF07#2@131"Link /Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator282402952#282402952#0(0"0(0#0#0"4300885448#744"    cd "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug" "-F/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug" -filelist "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Objects-normal/x86_64/Things Migrator.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework AppleScriptObjC -o "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator"0#
+
+COSACompile Things_MigratorAppDelegate.applescript
+s282485519.756922
+e282485519.926998
+r1
+xOSACompile
+xThings_MigratorAppDelegate.applescript
+lSLF07#2@46"Compile Things_MigratorAppDelegate.applescript282485519#282485519#0(0"0(0#0#0"4300885448#320"    cd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator"    /usr/bin/osacompile -l AppleScript -d -o "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/Things_MigratorAppDelegate.scpt" Things_MigratorAppDelegate.applescript0#
+
+CProcessInfoPlistFile "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist" Things_Migrator-Info.plist
+s282486328.498568
+e282486328.527835
+r1
+xProcessInfoPlistFile
+x/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist
+xThings_Migrator-Info.plist
+lSLF07#2@34"Process Things_Migrator-Info.plist282486328#282486328#0(0"0(0#0#97"/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/Things_Migrator-Info.plist7956004927508344832#436"    cd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator"    builtin-infoPlistUtility Things_Migrator-Info.plist -genpkginfo "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist" Things_Migrator-Info.plist
+s282402947.999783
+e282402948.027362
+r1
+xProcessInfoPlistFile
+x/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist
+xThings_Migrator-Info.plist
+lSLF07#2@34"Process Things_Migrator-Info.plist282402948#282402948#0(0"0(0#0#90"/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/Things_Migrator-Info.plist8243673422902814720#415"    cd "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator"    builtin-infoPlistUtility Things_Migrator-Info.plist -genpkginfo "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-aygzfcoxochuuafzbiohsbqujdwu/Things_Migrator_Prefix.pch.gch Things_Migrator_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s282478816.176097
+e282478825.491250
+r1
+xProcessPCH
+x/var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-aygzfcoxochuuafzbiohsbqujdwu/Things_Migrator_Prefix.pch.gch
+xThings_Migrator_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Things_Migrator_Prefix.pch282478816#282478825#0(0"0(0#0#97"/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/Things_Migrator_Prefix.pch4300885448#1863"    cd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-generated-files.hmap" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-own-target-headers.hmap" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-all-target-headers.hmap" -iquote "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-project-headers.hmap" "-F/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/include" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources/x86_64" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources" -c "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/Things_Migrator_Prefix.pch" -o /var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-aygzfcoxochuuafzbiohsbqujdwu/Things_Migrator_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-bbbwhpzvqzqatrhaqisomfeajtmm/Things_Migrator_Prefix.pch.gch Things_Migrator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s282486044.418187
+e282486049.388919
+r1
+xProcessPCH
+x/var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-bbbwhpzvqzqatrhaqisomfeajtmm/Things_Migrator_Prefix.pch.gch
+xThings_Migrator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Things_Migrator_Prefix.pch282486044#282486049#0(0"0(0#0#97"/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/Things_Migrator_Prefix.pch4300885448#1859"    cd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-generated-files.hmap" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-own-target-headers.hmap" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-all-target-headers.hmap" -iquote "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-project-headers.hmap" "-F/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/include" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources/i386" "-I/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources" -c "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/Things_Migrator_Prefix.pch" -o /var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-bbbwhpzvqzqatrhaqisomfeajtmm/Things_Migrator_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-fxncirjpkabepheabcnhtacnouid/Things_Migrator_Prefix.pch.gch Things_Migrator_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s282402948.476653
+e282402951.867037
+r1
+xProcessPCH
+x/var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-fxncirjpkabepheabcnhtacnouid/Things_Migrator_Prefix.pch.gch
+xThings_Migrator_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Things_Migrator_Prefix.pch282402948#282402951#0(0"0(0#0#90"/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/Things_Migrator_Prefix.pch4300885448#1793"    cd "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-generated-files.hmap" "-I/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-own-target-headers.hmap" "-I/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-all-target-headers.hmap" -iquote "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/Things Migrator-project-headers.hmap" "-F/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug" "-I/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/include" "-I/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources/x86_64" "-I/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Things Migrator.build/Debug/Things Migrator.build/DerivedSources" -c "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/Things_Migrator_Prefix.pch" -o /var/folders/ls/lsk-w85LFam2Yuk46u0FY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Things_Migrator_Prefix-fxncirjpkabepheabcnhtacnouid/Things_Migrator_Prefix.pch.gch0#
+
+CTouch "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app"
+s282486364.829591
+e282486364.832165
+r1
+xTouch
+x/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app
+lSLF07#2@108"Touch /Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app282486364#282486364#0(0"0(0#0#0"7595413334085497856#207"    cd "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator"    /usr/bin/touch -c "/Applications/MAMP/htdocs/playground/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app"0#
+
+CTouch "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app"
+s282418589.807510
+e282418589.814017
+r1
+xTouch
+x/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app
+lSLF07#2@101"Touch /Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app282418589#282418589#0(0"0(0#0#0"4300885448#193"    cd "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator"    /usr/bin/touch -c "/Users/martinjacobsen/Desktop/Things Migrator 2/Things Migrator/build/Debug/Things Migrator.app"0#
+
