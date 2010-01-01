@@ -1,0 +1,92 @@
+TPack your Things
+v7
+r1
+cCheck dependencies
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/English.lproj/InfoPlist.strings
+c000000004A0BDBEA00000000000000D6
+t1242291178
+s214
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/English.lproj/MainMenu.nib
+c000000004A0BDAFA00000000000000AA
+t1242290938
+s170
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/Things Migrator.applescript
+c000000004A0BF90A0000000000001A1E
+t1242298634
+s6686
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Release/Things Migrator.app
+t1252046594
+s102
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Release/Things Migrator.app/Contents/Info.plist
+t1252046594
+s958
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Release/Things Migrator.app/Contents/PkgInfo
+t1252046594
+s8
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Release/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1252046596
+s214
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Release/Things Migrator.app/Contents/Resources/English.lproj/MainMenu.nib
+t1252046595
+s170
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Release/Things Migrator.app/Contents/Resources/Scripts/Things Migrator.scpt
+t2
+s0
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Release/Things Migrator.app/Contents/Resources/icon.icns
+t1252046595
+s151002
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Release/Things Migrator.app/Contents/Resources/t2thlBG_2.png
+t1252046595
+s66929
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/icon.icns
+c000000004A0B4C7B0000000000024DDA
+t1242254459
+s151002
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/t2thlBG_2.png
+c000000004A0BD8100000000000010571
+t1242290192
+s66929
+
+NInfo.plist
+c000000004A0B4CDA00000000000003C1
+t1242254554
+s961
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies282160026#282160026#0(86"[BEROR]error: There is no SDK with the name or path '/Developer/SDKs/MacOSX10.4u.sdk'1(4@78"error: There is no SDK with the name or path '/Developer/SDKs/MacOSX10.4u.sdk'282160026#18446744073709551615#0#0(1@0"0(0#1#0"4300885448#0"0#
+
+CCopyStringsFile "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Release/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCpResource "build/Release/Things Migrator.app/Contents/Resources/icon.icns" icon.icns
+r0
+
+CCpResource "build/Release/Things Migrator.app/Contents/Resources/t2thlBG_2.png" t2thlBG_2.png
+r0
+
+COSACompile "build/Release/Things Migrator.app/Contents/Resources/Scripts/Things Migrator.scpt" "Things Migrator.applescript"
+r0
+
+CProcessInfoPlistFile "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Release/Things Migrator.app/Contents/Info.plist" Info.plist
+r0
+
+CStripNIB "/Applications/MAMP/htdocs/ad hoc/Things Migrator/English.lproj/MainMenu.nib"
+r0
+
+CTouch "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Release/Things Migrator.app"
+r0
+

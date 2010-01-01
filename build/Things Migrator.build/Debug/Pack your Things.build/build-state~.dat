@@ -1,0 +1,196 @@
+TPack your Things
+v7
+r0
+t282160188.292474
+cCheck dependencies
+cProcessInfoPlistFile "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist" Info.plist
+cOSACompile "build/Debug/Things Migrator.app/Contents/Resources/Scripts/Things Migrator.scpt" "Things Migrator.applescript"
+cStripNIB "/Applications/MAMP/htdocs/ad hoc/Things Migrator/English.lproj/MainMenu.nib"
+cCopyStringsFile "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCpResource "build/Debug/Things Migrator.app/Contents/Resources/icon.icns" icon.icns
+cCpResource "build/Debug/Things Migrator.app/Contents/Resources/t2thlBG_2.png" t2thlBG_2.png
+cCompileC "build/Things Migrator.build/Debug/Pack your Things.build/Objects-normal/i386/main.o" "/Applications/MAMP/htdocs/ad hoc/Things Migrator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator" normal i386
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/English.lproj/InfoPlist.strings
+c000000004A0BDBEA00000000000000D6
+t1242291178
+s214
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/English.lproj/MainMenu.nib
+c000000004A0BDAFA00000000000000AA
+t1242290938
+s170
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/Things Migrator.applescript
+c000000004B21344100000000000019F4
+t1260467265
+s6644
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app
+t2
+s0
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist
+t1260467387
+s958
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator
+t1260467388
+s13100
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/PkgInfo
+t1260467387
+s8
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1260467388
+s214
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/MainMenu.nib
+t1260467388
+s12412
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/Scripts/Things Migrator.scpt
+t2
+s0
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/icon.icns
+t1260467388
+s151002
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/t2thlBG_2.png
+t1260467388
+s66929
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Things Migrator.build/Debug/Pack your Things.build/Objects-normal/i386/Things Migrator.LinkFileList
+c000000004B2134BB0000000000000085
+t1260467387
+s133
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Things Migrator.build/Debug/Pack your Things.build/Objects-normal/i386/main.o
+t1260467388
+s3448
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/icon.icns
+c000000004A0B4C7B0000000000024DDA
+t1242254459
+s151002
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/main.m
+c0000000044F6950200000000000000C5
+t1157010690
+s197
+
+N/Applications/MAMP/htdocs/ad hoc/Things Migrator/t2thlBG_2.png
+c000000004A0BD8100000000000010571
+t1242290192
+s66929
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/System/Library/Frameworks/AppleScriptKit.framework/AppleScriptKit
+c000000004A1F2E5D00000000001BBC30
+t1243557469
+s1817648
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+NInfo.plist
+c000000004A0B4CDA00000000000003C1
+t1242254554
+s961
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies282160187#282160187#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC "build/Things Migrator.build/Debug/Pack your Things.build/Objects-normal/i386/main.o" "/Applications/MAMP/htdocs/ad hoc/Things Migrator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s282160188.232778
+e282160188.257639
+r1
+xCompileC
+xbuild/Things Migrator.build/Debug/Pack your Things.build/Objects-normal/i386/main.o
+x/Applications/MAMP/htdocs/ad hoc/Things Migrator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Applications/MAMP/htdocs/ad hoc/Things Migrator/main.m282160188#282160188#0(0"0(0#0#55"/Applications/MAMP/htdocs/ad hoc/Things Migrator/main.m4300885448#1071"    cd "/Applications/MAMP/htdocs/ad hoc/Things Migrator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Things Migrator.build/Debug/Pack your Things.build/Things Migrator.hmap" "-F/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug" "-I/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/include" "-I/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Things Migrator.build/Debug/Pack your Things.build/DerivedSources/i386" "-I/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Things Migrator.build/Debug/Pack your Things.build/DerivedSources" -c "/Applications/MAMP/htdocs/ad hoc/Things Migrator/main.m" -o "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Things Migrator.build/Debug/Pack your Things.build/Objects-normal/i386/main.o"0#
+
+CCopyStringsFile "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s282160187.840920
+e282160188.232672
+r1
+xCopyStringsFile
+x/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings282160187#282160188#0(0"0(0#0#80"/Applications/MAMP/htdocs/ad hoc/Things Migrator/English.lproj/InfoPlist.strings4300885448#398"    cd "/Applications/MAMP/htdocs/ad hoc/Things Migrator"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj"0#
+
+CCpResource "build/Debug/Things Migrator.app/Contents/Resources/icon.icns" icon.icns
+s282160188.033546
+e282160188.109884
+r1
+xCpResource
+xbuild/Debug/Things Migrator.app/Contents/Resources/icon.icns
+xicon.icns
+lSLF07#2@14"Copy icon.icns282160188#282160188#0(0"0(0#0#58"/Applications/MAMP/htdocs/ad hoc/Things Migrator/icon.icns4300885448#369"    cd "/Applications/MAMP/htdocs/ad hoc/Things Migrator"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Applications/MAMP/htdocs/ad hoc/Things Migrator/icon.icns" "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Things Migrator.app/Contents/Resources/t2thlBG_2.png" t2thlBG_2.png
+s282160188.034448
+e282160188.122526
+r1
+xCpResource
+xbuild/Debug/Things Migrator.app/Contents/Resources/t2thlBG_2.png
+xt2thlBG_2.png
+lSLF07#2@18"Copy t2thlBG_2.png282160188#282160188#0(0"0(0#0#62"/Applications/MAMP/htdocs/ad hoc/Things Migrator/t2thlBG_2.png4300885448#373"    cd "/Applications/MAMP/htdocs/ad hoc/Things Migrator"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Applications/MAMP/htdocs/ad hoc/Things Migrator/t2thlBG_2.png" "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources"0#
+
+CLd "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator" normal i386
+s282160188.257743
+e282160188.292390
+r1
+xLd
+x/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator
+xnormal
+xi386
+lSLF07#2@116"Link /Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator282160188#282160188#0(0"0(0#0#0"4300885448#665"    cd "/Applications/MAMP/htdocs/ad hoc/Things Migrator"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug" "-F/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug" -filelist "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Things Migrator.build/Debug/Pack your Things.build/Objects-normal/i386/Things Migrator.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework AppleScriptKit -o "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/MacOS/Things Migrator"0#
+
+COSACompile "build/Debug/Things Migrator.app/Contents/Resources/Scripts/Things Migrator.scpt" "Things Migrator.applescript"
+s282160187.747072
+e282160187.839442
+r0
+xOSACompile
+xbuild/Debug/Things Migrator.app/Contents/Resources/Scripts/Things Migrator.scpt
+xThings Migrator.applescript
+o2009-12-10 18:49:47.775 osacompile[51695:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
+oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
+o/Applications/MAMP/htdocs/ad hoc/Things Migrator/Things Migrator.applescript:106: error: Expected end of line, etc. but found number. (-2741)
+lSLF07#2@35"Compile Things Migrator.applescript282160187#282160187#0(740"2009-12-10 18:49:47.775 osacompile[51695:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers./Applications/MAMP/htdocs/ad hoc/Things Migrator/Things Migrator.applescript:106: error: Expected end of line, etc. but found number. (-2741)Command /usr/bin/osacompile failed with exit code 11(4@51"Command /usr/bin/osacompile failed with exit code 1282160187#18446744073709551615#0#0(1@0"0(0#0#76"/Applications/MAMP/htdocs/ad hoc/Things Migrator/Things Migrator.applescript4300885448#401"    cd "/Applications/MAMP/htdocs/ad hoc/Things Migrator"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U "Things Migrator.applescript" -o "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/Scripts/Things Migrator.scpt" "/Applications/MAMP/htdocs/ad hoc/Things Migrator/Things Migrator.applescript"1#
+
+CProcessInfoPlistFile "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist" Info.plist
+s282160187.740830
+e282160187.746965
+r1
+xProcessInfoPlistFile
+x/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist282160187#282160187#0(0"0(0#0#59"/Applications/MAMP/htdocs/ad hoc/Things Migrator/Info.plist4300885448#354"    cd "/Applications/MAMP/htdocs/ad hoc/Things Migrator"    builtin-infoPlistUtility Info.plist -genpkginfo "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Info.plist"0#
+
+CStripNIB "/Applications/MAMP/htdocs/ad hoc/Things Migrator/English.lproj/MainMenu.nib"
+s282160187.839522
+e282160188.033348
+r1
+xStripNIB
+x/Applications/MAMP/htdocs/ad hoc/Things Migrator/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib282160187#282160188#0(0"0(0#0#75"/Applications/MAMP/htdocs/ad hoc/Things Migrator/English.lproj/MainMenu.nib4300885448#339"    cd "/Applications/MAMP/htdocs/ad hoc/Things Migrator"    /Developer/usr/bin/ibtool --strip "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app/Contents/Resources/English.lproj/MainMenu.nib" --output-format human-readable-text "/Applications/MAMP/htdocs/ad hoc/Things Migrator/English.lproj/MainMenu.nib"0#
+
+CTouch "/Applications/MAMP/htdocs/ad hoc/Things Migrator/build/Debug/Things Migrator.app"
+r0
+
